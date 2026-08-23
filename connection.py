@@ -16,8 +16,8 @@ from data import generate_uber_ride_confirmation
 # CONNECTION_STRING = os.getenv("CONNECTION_STRING")
 # EVENT_HUBNAME = os.getenv("EVENT_HUBNAME")
 
-CONNECTION_STRING = "Endpoint=sb://intothebronze.servicebus.windows.net/;SharedAccessKeyName=sendpolicy;SharedAccessKey=6FFrgjAdQkX1ipG9PAwK94ySmefNG7rWo+AEhCLOzZ4=;EntityPath=uber-topic"
-EVENT_HUBNAME = "uber-topic"
+CONNECTION_STRING = "Cant share this link sorry"
+EVENT_HUBNAME = "Cant share this as well"
 
 
 
